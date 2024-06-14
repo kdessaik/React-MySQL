@@ -13,16 +13,11 @@ function App() {
         .catch(err => console.log(err))
       },[])
       
-    let de=data
-    console.log(de[0].id)
+  
+    console.log('Dessai')
   
 
   return (
-
-
-    
-    
-
 
 
     <>
